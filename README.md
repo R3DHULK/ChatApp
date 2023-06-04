@@ -1,2 +1,2 @@
-# ChatApp-Modified
-ChatApp Modified
+# ChatApp
+Simple ChatApp
